@@ -11,6 +11,10 @@ Go 被称为“21世纪的C语言”。
 
 对我来说，我想学习go的缘由是因为这个项目：[Cloudreve](https://github.com/cloudreve/Cloudreve)，其部署方便，并且在我的 NAS 上运行得很好，因此，我觉得能写出如此好用的软件的语言值得一学！
 
+## 尝试 Go
+
+如果不想安装开发环境，只想简单的了解一下 Go，可以访问 [https://go.dev/play/](https://go.dev/play/)，在线执行代码，国内可以访问 [https://golang.google.cn/play/](https://golang.google.cn/play/)
+
 ## 搭建开发环境
 
 1. 安装Go开发包：
